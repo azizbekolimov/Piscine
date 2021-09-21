@@ -1,0 +1,5 @@
+Credentials cache: API:53A22C12-040B-4FBC-A90F-041AF347ECC4
+        Principal: dkaratae@42ABUDHABI.AE
+
+  Issued                Expires             Flags    Principal
+Aug  3 02:08:05 2021  Aug  3 12:07:54 2021  FPIA   krbtgt/42ABUDHABI.AE@42ABUDHABI.AE
